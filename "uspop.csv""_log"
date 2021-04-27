@@ -1,8 +1,0 @@
-URL,Error
-this is an errorasd,builder error: relative URL without a base
-https://wdsgjsl.ez,"error sending request for url (https://wdsgjsl.ez/): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known"
-https://wdsgjsl.ez,"error sending request for url (https://wdsgjsl.ez/): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known"
-this is an error,builder error: relative URL without a base
-this is an error,builder error: relative URL without a base
-this is an error,builder error: relative URL without a base
-this is an error,builder error: relative URL without a base
